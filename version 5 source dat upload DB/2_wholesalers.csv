@@ -1,0 +1,215 @@
+record_id,wholesaler,customer_name,customer_phone,area,monthly_purchases_M
+9,Thetsane Wholesale,Refiloe Sebusi tuck shop,+266 55576169,Ha Abia,3491.99
+14,Maseru Cash & Carry,Katleho Moleko snack bar,+266 68469788,Maseru West,65753.53
+24,Maluti Beverage Distributors,Itumeleng Mokete tavern,+266 64002978,Khubetsoana,18328.97
+33,Maluti Beverage Distributors,Hlompho Lebakeng tavern,+266 56270107,Qoaling,8194.62
+36,Maseru Cash & Carry,Ntsoaki Lebitsa snack bar,+266 51908452,Khubetsoana,6902.84
+37,Thetsane Wholesale,Ntsoaki Lebitsa snack bar,,Khubetsoana,7479.58
+41,Maseru Cash & Carry,Mapaseka Maieane general dealer,+266 57929841,Khubetsoana,1644.67
+42,Thetsane Wholesale,Mapaseka Maieane general dealer,+266 57929841,Lithoteng,1004.27
+45,Berea Meat Wholesalers,L. Tsolo butchery,+266 68662836,Lithoteng,13603.64
+62,Maseru Cash & Carry,Lehlohonolo Nthunya tuck shop,+266 67258771,Motimposo,4764.00
+66,Thetsane Wholesale,Lipholo Motloheloa snack bar,+266 53017568,Qoaling,25251.93
+72,Thetsane Wholesale,Limpho Mochaba general dealer,+266 51854914,Ha Matala,3056.66
+81,Thetsane Wholesale,T. Khanyane tuck shop,+266 65799065,Qoaling,5186.41
+82,Maseru Cash & Carry,Tankiso Khanyane tuck shop,,Qoaling,5488.64
+86,Maluti Beverage Distributors,Moleko's tavern,,Qoaling,48532.78
+93,Maseru Cash & Carry,T. Mohapi mini market,+266 55666363,Motimposo,22524.59
+99,Lesotho Builders Supply,Mampho Majara hardware,,Khubetsoana,6275.33
+115,Maluti Beverage Distributors,N. Ntaote tavern,+266 62108394,Ha Matala,6498.65
+117,Thetsane Wholesale,Matela's snack bar,+266 51265844,Lithoteng,787.45
+118,Maseru Cash & Carry,Khauhelo Matela snack bar,+266 51265844,Lithoteng,936.63
+123,Thetsane Wholesale,Khotso Ramatla general dealer,+266 68452630,Ha Abia,17001.52
+129,Maseru Cash & Carry,Moteane's snack bar,,Qoaling,4755.76
+145,Thetsane Wholesale,Sehlabaka's general dealer,,Ha Matala,5055.93
+149,Maseru Cash & Carry,Mafatle's mini market,+266 61788365,Motimposo,70566.05
+154,Maluti Beverage Distributors,Tsoeu's tavern,,Motimposo,7067.63
+159,Maluti Beverage Distributors,Dineo Mphuthi tavern,+266 65003145,Maseru West,5931.71
+166,Maseru Cash & Carry,Lebohang Monare general dealer,+266 69518380,Maseru West,27967.23
+180,Maluti Beverage Distributors,P. Ramaili tavern,+266 69747540,Ha Matala,4102.43
+193,Maseru Cash & Carry,M. Lenka snack bar,+266 50733688,Qoaling,7824.18
+194,Thetsane Wholesale,Lenka's snack bar,,Qoaling,5910.71
+199,Maseru Cash & Carry,Monare's general dealer,+266 62855689,Ha Abia,3541.97
+217,Maseru Cash & Carry,Pule Moleko snakc bar,+266 52337352,Motimposo,8126.33
+218,Thetsane Wholesale,Pule Moleko snack bar,+266 52337352,Motimposo,11164.38
+221,Maseru Cash & Carry,Rethabile Matete general dealer,,Khubetsoana,3639.05
+227,Lesotho Builders Supply,Tsepiso Sefali hardware,+266 67212835,Ha Abia,561.79
+230,Lesotho Builders Supply,Teboho Tsolo hardware,+266 61775888,Ha Matala,4295.57
+238,Maseru Cash & Carry,Mookho Letsie tuck shop,+266 59815247,Thetsane,15010.17
+239,Thetsane Wholesale,M. Letsie tuck shop,+266 59815247,Qoaling,17144.37
+260,Maseru Cash & Carry,Letsatsi Leboela tuck shop,+266 64182889,Thetsane,25848.75
+263,Thetsane Wholesale,M. Hlaoli general dealer,+266 69223283,Qoaling,1269.23
+264,Maseru Cash & Carry,Hlaoli's general dealer,,Qoaling,840.46
+282,Maluti Beverage Distributors,Mphutlane's tavern,+266 54999248,Motimposo,22680.47
+288,Maseru Cash & Carry,P. Ramaili general dealer,,Khubetsoana,31226.84
+295,Thetsane Wholesale,Thabang Mosala general dealer,+266 57911357,Motimposo,11301.84
+304,Maseru Cash & Carry,Tsepo Khoase tuck shop,+266 63984886,Ha Matala,18084.19
+307,Maluti Beverage Distributors,Rantsane's tavern,+266 52840934,Maseru West,10499.98
+314,Thetsane Wholesale,Tebello Ntsane snack bar,,Motimposo,17988.69
+318,Thetsane Wholesale,Palesa Rapitsi mini market,+266 52796726,Khubetsoana,692.13
+327,Maseru Cash & Carry,Motsamai's mini market,,Maseru West,5169.22
+341,Maseru Cash & Carry,Mookho Setsabi snack bar,+266 66439725,Maseru West,617.65
+354,Maluti Beverage Distributors,Teboho Lekhooa tavern,+266 56311119,Lithoteng,9680.59
+360,Maseru Cash & Carry,TebohoT hoahlane tuck shop,,Ha Abia,8816.23
+366,Lesotho Builders Supply,Mpeta's hardware,,Thetsane,40789.37
+370,Thetsane Wholesale,Pitso's mini market,+266 55914833,Qoaling,4866.61
+374,Maseru Cash & Carry,Pule Ntaote mini market,,Qoaling,9355.58
+378,Maseru Cash & Carry,Mookho Mahlelebe tuck shop,+266 64975332,Qoaling,16387.43
+384,Maluti Beverage Distributors,Mathabo Sebotsa tavern,,Ha Abia,3280.72
+388,Thetsane Wholesale,Mofokeng's tuck shop,+266 64420146,Maseru West,77848.82
+392,Maseru Cash & Carry,M. Liphapang general dealer,+266 50530514,Khubetsoana,2908.38
+394,Lesotho Builders Supply,Tsholo Ntsane hardware,+266 68930597,Motimposo,3954.36
+419,Thetsane Wholesale,Lipholo Ramohapi general dealer,+266 50475168,Ha Matala,12529.75
+420,Maseru Cash & Carry,T. Thoahlane snack bar,,Lithoteng,12169.93
+421,Thetsane Wholesale,Thulo Thoahlane snack bar,+266 54108235,Lithoteng,6133.08
+430,Lesotho Builders Supply,Tsholo Mathibeli hardware,+266 54460261,Qoaling,57769.27
+435,Maluti Beverage Distributors,Itumeleng Mathibeli tavern,,Thetsane,8987.57
+441,Maseru Cash & Carry,Teboho Mohlomi general dealer,+266 57039273,Thetsane,6514.50
+449,Maluti Beverage Distributors,Motlatsi Sekoai tavern,+266 61146351,Maseru West,1313.53
+459,Thetsane Wholesale,T. Sekonyana tuck shop,+266 67081297,Lithoteng,10739.10
+468,Maseru Cash & Carry,Lineo Makara snack bar,+266 67067554,Lithoteng,25476.56
+470,Thetsane Wholesale,Nkhasi's snack bar,+266 63516768,Motimposo,1027.78
+473,Maseru Cash & Carry,Thulo Kao general dealer,,Maseru West,45552.68
+487,Maluti Beverage Distributors,Nteboheleng Molapo tavern,+266 55178013,Ha Abia,20172.92
+494,Thetsane Wholesale,Refiloe Ramaili tuck shop,+266 69563782,Lithoteng,26954.66
+507,Maseru Cash & Carry,Mahabo Khoase snack bar,,Motimposo,1464.78
+508,Thetsane Wholesale,M. Khoase snack bar,+266 51543161,Motimposo,1820.34
+516,Thetsane Wholesale,Mpho Motaung snack bar,,Khubetsoana,7118.57
+521,Maseru Cash & Carry,Rethabile Makhoalibe tuck shop,+266 57877604,Motimposo,7433.63
+522,Thetsane Wholesale,Rethabile Makhoalibe tuck shop,+266 57877604,Motimposo,6819.19
+531,Maseru Cash & Carry,Lephoto's general dealer,,Khubetsoana,46954.74
+536,Thetsane Wholesale,Tsepiso Molapo mini market,+266 55643338,Motimposo,4548.77
+537,Maseru Cash & Carry,Molapo's mini market,+266 55643338,Motimposo,4424.12
+544,Lesotho Builders Supply,Mpholo's hardware,,Maseru West,2855.57
+560,Thetsane Wholesale,Tsholo Khoase general dealer,+266 60028220,Maseru West,2673.96
+568,Thetsane Wholesale,Moeketsi Tau tuck shop,+266 53167779,Khubetsoana,5226.95
+572,Maluti Beverage Distributors,Bokang Matsoso tavern,,Thetsane,2639.50
+575,Berea Meat Wholesalers,Libuseng Sebusi butchery,+266 61383129,Lithoteng,7314.12
+578,Maseru Cash & Carry,Mapaseka Lephoto tuck shop,+266 52952920,Ha Matala,675.82
+586,Maluti Beverage Distributors,Lekhooa's tavrn,+266 56064501,Ha Matala,12847.74
+594,Thetsane Wholesale,Matsoso's general dealer,+266 60408378,Ha Matala,3193.97
+610,Maseru Cash & Carry,Letsatsi Ntlhoki snack bar,+266 64480594,Ha Abia,2408.41
+616,Thetsane Wholesale,Mohlomi's snack bar,+266 58634056,Motimposo,823.31
+617,Maseru Cash & Carry,R .Mohlomi snack bar,+266 58634056,Motimposo,605.66
+621,Maseru Cash & Carry,Mokete Nthunya general dealer,+266 56942669,Ha Matala,24852.96
+625,Maseru Cash & Carry,Lineo Letete snack bar,,Ha Abia,2704.02
+626,Thetsane Wholesale,Letete's snack bar,+266 53179143,Ha Abia,1312.83
+632,Maluti Beverage Distributors,Mapaseka Mabote tavern,+266 67638869,Maseru West,1616.15
+635,Thetsane Wholesale,Thabo Mosuoe general dealer,,Ha Abia,1543.73
+642,Maseru Cash & Carry,N. Tsoeu snack bar,,Ha Matala,9156.45
+648,Thetsane Wholesale,Karabo Phfoli mini market,+266 52848525,Lithoteng,9438.24
+649,Maseru Cash & Carry,K. Phafoli mini market,,Lithoteng,17397.12
+662,Lesotho Builders Supply,Fumane Moleko hardware,,Thetsane,1279.93
+664,Maseru Cash & Carry,Sebatane's snack bar,+266 51624487,Ha Matala,42705.57
+666,Thetsane Wholesale,Chabeli's general dealer,+266 64032019,Khubetsoana,15242.36
+673,Maseru Cash & Carry,Sebotsa's snack bar,,Khubetsoana,3796.06
+699,Thetsane Wholesale,P. Motloheloa mini market,,Khubetsoana,21061.04
+713,Thetsane Wholesale,Kopano Morahanye tuck shop,+266 50590619,Ha Abia,4647.64
+720,Maseru Cash & Carry,Nthati Sekhonyana tuck shop,+266 69392981,Ha Matala,42012.03
+723,Lesotho Builders Supply,Khotso Malefane hardware,+266 53873037,Motimposo,11474.10
+726,Maseru Cash & Carry,F. Seitlheko mini market,+266 67860518,Thetsane,4233.86
+731,Maseru Cash & Carry,Mochochoko's mini market,+266 63080908,Thetsane,2315.91
+735,Maseru Cash & Carry,Libuseng Mphaki mini market,,Maseru West,22305.37
+739,Maseru Cash & Carry,Nkopane Thoahlane tuck shop,+266 63104172,Thetsane,25830.56
+741,Berea Meat Wholesalers,Lipholo Mahlelebe butchery,+266 55152165,Khubetsoana,3200.92
+748,Lesotho Builders Supply,Nteboheleng Matete harwdare,+266 56058188,Ha Matala,13066.38
+754,Thetsane Wholesale,Mphaki's general dealer,+266 60601696,Ha Matala,16240.34
+763,Thetsane Wholesale,Makhetha's snack bar,,Maseru West,8761.64
+778,Thetsane Wholesale,Jobo's general dealer,,Qoaling,4187.23
+783,Lesotho Builders Supply,Letsatsi Chabeli hardware,+266 57367512,Khubetsoana,28795.26
+800,Maseru Cash & Carry,N. Matete general dealer,+266 54718480,Thetsane,10112.19
+803,Lesotho Builders Supply,Libuseng Tisu hardware,+266 60439744,Ha Matala,25047.90
+808,Thetsane Wholesale,Thato Mohale general dealer,+266 59607638,Khubetsoana,1179.49
+817,Maseru Cash & Carry,Sello Lithebe general dealer,,Lithoteng,1598.76
+818,Thetsane Wholesale,Sello Lithebe general dealer,,Lithoteng,1540.07
+821,Lesotho Builders Supply,Kopano Masilo hardware,+266 65492845,Maseru West,11599.00
+826,Thetsane Wholesale,S. Letete general dealer,+266 54351976,Ha Matala,12124.61
+833,Thetsane Wholesale,Pheello Mpholo tuck shop,+266 62104810,Qoaling,20135.48
+836,Maseru Cash & Carry,R. Motloheloa tuck shop,+266 67875300,Lithoteng,4074.18
+838,Maseru Cash & Carry,Neo Ranyali ini market,+266 65748878,Maseru West,1767.05
+840,Maseru Cash & Carry,Karabo Molapo genral dealer,+266 52320930,Qoaling,13652.38
+846,Thetsane Wholesale,Tankiso Ranyali general dealer,,Ha Abia,2317.26
+853,Thetsane Wholesale,Dineo Matsoso mini market,+266 65249138,Lithoteng,516.40
+854,Maseru Cash & Carry,Matsoso's mini market,+266 65249138,Lithoteng,559.87
+858,Thetsane Wholesale,Malefu Malefane general dealer,+266 50325883,Motimposo,3574.42
+873,Lesotho Builders Supply,P. Ranyali hardwre,,Motimposo,4689.94
+891,Thetsane Wholesale,Mosuoe's general dealer,+266 66415249,Thetsane,16233.88
+895,Lesotho Builders Supply,Tsepiso Lestie hardware,,Motimposo,24084.22
+898,Maseru Cash & Carry,Letsie's general dealer,,Maseru West,123779.13
+904,Maluti Beverage Distributors,H. Kahlane tavern,+266 51727172,Qoaling,6182.16
+912,Maluti Beverage Distributors,Lebohang Pitso tavern,+266 66132496,Thetsane,4664.90
+914,Maluti Beverage Distributors,Dineo aama tavern,+266 61794643,Maseru West,17164.20
+920,Maseru Cash & Carry,Mathabo Mpeta snack bar,+266 53454935,Ha Abia,2872.96
+921,Thetsane Wholesale,Mathabo Mpeta snack bar,,Khubetsoana,2033.55
+923,Thetsane Wholesale,Nteboheleng Ramaili tuck shop,+266 67739440,Thetsane,8709.09
+927,Thetsane Wholesale,T. Matete mini market,+266 55964103,Khubetsoana,7877.48
+938,Berea Meat Wholesalers,Mojalefa Motloheloa butchery,+266 55265170,Ha Matala,5381.87
+942,Maseru Cash & Carry,Bonang Jobo tuck shop,,Motimposo,10025.66
+946,Lesotho Builders Supply,Selebalo's hardware,,Ha Matala,60929.42
+955,Maseru Cash & Carry,L. Thulo tck shop,+266 68552285,Ha Abia,23662.88
+965,Thetsane Wholesale,Mampho Manyeli general dealer,+266 53439999,Motimposo,19990.23
+975,Thetsane Wholesale,M. Manyeli mini market,+266 69507135,Motimposo,5507.32
+978,Thetsane Wholesale,Tankiso Hoohlo tuk shop,,Khubetsoana,11034.75
+982,Maseru Cash & Carry,Khanyane's general dealer,+266 55964852,Maseru West,4000.41
+984,Maseru Cash & Carry,L. Mafatle mini market,+266 50641971,Qoaling,9972.78
+998,Maseru Cash & Carry,Motlatsi Makotoko general dealer,+266 55545892,Ha Abia,940.32
+1009,Maseru Cash & Carry,M. Kao general dealer,+266 50054659,Ha Matala,6204.80
+1028,Berea Meat Wholesalers,M. Maqutu butchery,+266 62705755,Motimposo,28303.65
+1031,Thetsane Wholesale,Pule Sebotsa tck shop,,Ha Matala,10263.34
+1034,Maseru Cash & Carry,Katleh Mpiti snack bar,,Qoaling,4733.56
+1045,Maluti Beverage Distributors,Lipholo Putsoane tavern,+266 61229257,Motimposo,6370.45
+1049,Maluti Beverage Distributors,Ntsoaki Makhetha tavern,,Khubetsoana,3357.77
+1058,Thetsane Wholesale,Tebello Ltete general dealer,+266 59432144,Qoaling,2002.67
+1059,Maseru Cash & Carry,Letete's general dealer,+266 59432144,Qoaling,3285.48
+1073,Thetsane Wholesale,Moleboheng Khoabane mini market,,Khubetsoana,2400.82
+1074,Maseru Cash & Carry,Moleboheng Khoabane mini market,+266 58416441,Khubetsoana,4460.44
+1080,Maseru Cash & Carry,Fumane Sefali snak bar,+266 68404194,Qoaling,1024.78
+1085,Thetsane Wholesale,Fumane Lebakeng mini market,,Ha Abia,3077.96
+1093,Maseru Cash & Carry,Ntsoaki Sefali general dealer,+266 51114549,Ha Abia,3620.95
+1094,Thetsane Wholesale,N. Sefali general dealer,+266 51114549,Khubetsoana,2125.02
+1099,Maseru Cash & Carry,Khauhelo Lebitsa general dealer,,Ha Abia,853.89
+1100,Thetsane Wholesale,Khauhelo Lebitsa general dealer,+266 52984446,Ha Abia,1260.29
+1104,Maseru Cash & Carry,Boitumelo Ramabele mini amrket,,Thetsane,20624.60
+1109,Maseru Cash & Carry,Puseletso Mosuoe snack bar,+266 53250178,Qoaling,3505.19
+1110,Thetsane Wholesale,Mosuoe's snack bar,,Qoaling,1769.77
+1115,Thetsane Wholesale,T. Shale tuck hop,+266 53687648,Motimposo,27658.39
+1121,Thetsane Wholesale,Mohale's tuck shop,+266 62854766,Ha Matala,13642.42
+1122,Maseru Cash & Carry,Mohale's tuck shop,,Motimposo,7920.67
+1126,Maluti Beverage Distributors,Matseliso Matela tavern,+266 64881023,Khubetsoana,3754.79
+1130,Thetsane Wholesale,Nkopane Mohale snack bar,+266 63544644,Qoaling,22184.97
+1141,Maluti Beverage Distributors,Ntosaki Majara tavern,+266 56354926,Ha Matala,11700.28
+1148,Maseru Cash & Carry,Boitumelo Mpeta tuck shop,+266 51847684,Motimposo,24186.48
+1149,Thetsane Wholesale,Mpeta's tuck shop,+266 51847684,Motimposo,12437.68
+1154,Maseru Cash & Carry,Nthabiseng Lerotholi tuck shop,+266 59063771,Qoaling,37264.78
+1157,Thetsane Wholesale,Leboela's general dealer,,Ha Abia,1476.31
+1170,Berea Meat Wholesalers,Sello Ntsane butchery,,Thetsane,17469.57
+1184,Thetsane Wholesale,Dineo Maqutu general dealer,+266 57484538,Thetsane,27421.49
+1190,Berea Meat Wholesalers,Refiloe Lekhooa butchery,,Khubetsoana,40118.66
+1193,Maluti Beverage Distributors,Napo Motsamai tavern,+266 53755789,Motimposo,3468.14
+1197,Lesotho Builders Supply,Thato Thulo hardware,+266 54132483,Ha Matala,1341.71
+1204,Maseru Cash & Carry,N. Motsamai snack bar,+266 65405373,Lithoteng,1939.27
+1210,Lesotho Builders Supply,Mampho Letsie hardware,+266 54094407,Thetsane,40162.99
+1216,Maluti Beverage Distributors,Tankiso Tsepe tavern,+266 65901449,Maseru West,3865.93
+1220,Thetsane Wholesale,P. Khati mini market,,Lithoteng,2729.28
+1229,Thetsane Wholesale,Motlatsi Lebakeng tuck shop,+266 66049642,Ha Matala,8898.96
+1230,Maseru Cash & Carry,Motlatsi Lebakeng tuck shop,+266 66049642,Ha Matala,12683.63
+1237,Lesotho Builders Supply,N. Mahlelebe hardware,+266 52695183,Khubetsoana,1201.25
+1244,Thetsane Wholesale,L. Moteane mini market,+266 69022297,Ha Matala,12766.36
+1247,Thetsane Wholesale,Napo Mokete tuck shop,,Maseru West,2168.91
+1251,Thetsane Wholesale,M. Khalane snack bar,,Qoaling,13498.36
+1255,Thetsane Wholesale,P. Maqutu tuck shop,+266 53057178,Qoaling,1544.41
+1260,Maseru Cash & Carry,Neo Mahlelebe mini market,,Maseru West,769.99
+1264,Maseru Cash & Carry,Tsepo Ranyali tuck shop,+266 62397331,Ha Matala,18033.71
+1281,Lesotho Builders Supply,Pontso Mpiti hardware,,Maseru West,14877.52
+1284,Thetsane Wholesale,Sello Selebalo mini markte,,Qoaling,8004.43
+1287,Thetsane Wholesale,Mojalefa Tlali tuck shop,+266 67378530,Maseru West,10471.76
+1291,Thetsane Wholesale,Sello Mathealira tuck shop,+266 50922641,Maseru West,974.37
+1292,Maseru Cash & Carry,Sello Mathealira tuck shop,+266 50922641,Maseru West,1374.66
+1297,Thetsane Wholesale,Lintle Mathibeli snack bar,,Lithoteng,1990.94
+1298,Maseru Cash & Carry,Lintle Mathibeli snack bar,+266 58011250,Lithoteng,1381.67
+1303,Maseru Cash & Carry,Khanyane's mini market,,Qoaling,2834.60
+1304,Thetsane Wholesale,Mpho Khanyane mini market,+266 62635231,Qoaling,5430.05
+1307,Thetsane Wholesale,D. Thoahlane general dealer,,Maseru West,2631.15
+1308,Maseru Cash & Carry,Dineo Thoahlane general dealer,+266 62590617,Maseru West,2636.22
+1318,Maseru Cash & Carry,M. Khalane tuck shop,,Ha Matala,2614.44
+1326,Thetsane Wholesale,Katleho Manyeli tuck shop,+266 67257550,Qoaling,19479.42

@@ -1,0 +1,141 @@
+record_id,tin,taxpayer_name,phone,area,line_of_business,declared_monthly_sales_M,nil_return_months_of_12
+5,3351236,M. Mohale tuck shop,,Ha Matala,retail,15858.46,0
+13,9116939,Moleko's snack bar,+266 68469788,Thetsane,snack bar,0,10
+52,TIN4706205,P. Mochochoko tuck shop,+266 58603208,Khubetsoana,retail,27491.73,0
+65,TIN2573853,L. Motloheloa snack bar,+266 53017568,Qoaling,snack bar,59370.54,0
+68,TIN7326011,Neo Mohapi hair salon,+266 55898319,Ha Matala,services,42277.72,0
+92,TIN5878205,Tebello Mohapi,+266 55666363,Motimposo,retail,28520.51,0
+98,TIN1139112,M. Majara hardware,,Lithoteng,hardware,8799.37,0
+122,TIN2619509,K. Ramatla general dealer,+266 68452630,Ha Abia,retail,18324.02,0
+144,TIN8585494,M. Sehlabaka general dealer,,Ha Matala,retail,7424.39,0
+158,TIN8422320,Mphuthi's tavern,+266 65003145,Maseru West,tavern,8953.01,0
+165,TIN3978435,Lebohang Monare general dealer,+266 69518380,Maseru West,retail,34904.6,0
+170,TIN7915872,Thato Lerotholi phone repairs,+266 63924196,Khubetsoana,services,10850.27,0
+174,TIN5445672,Rapitsi's hair salon,+266 66028837,Thetsane,services,26112.29,0
+203,TIN9371361,Khotso Mosala hair salon,+266 52900442,Lithoteng,services,26712.37,0
+216,TIN2337425,Moleko's snack bar,+266 52337352,Motimposo,snack bar,33894.35,0
+236,TIN4329203,Tsepiso Lebitsa mini market,,Maseru West,retail,0,12
+237,TIN7569704,Mookho Letsie tuck shop,+266 59815247,Thetsane,retail,45480.33,0
+250,TIN9033355,Motaung's tailoring,+266 60330428,Motimposo,services,467874.64,0
+252,TIN3887752,M. Sekhonyana tuck shop,+266 50381780,Ha Abia,retail,55451.6,0
+255,TIN4879280,Lehlohonolo Ntsane mini market,+266 57041214,Thetsane,retail,39954.03,0
+259,TIN4851507,Letsatsi Leboela,+266 64182889,Qoaling,retail,36828.86,0
+268,TIN2921596,Rametse's snack bar,+266 57105129,Ha Abia,snack bar,145439.05,0
+271,TIN1674249,Moleboheng Mpeta car wash,+266 55278120,Maseru West,services,124418.28,0
+277,TIN4751839,P. Makhoalibe,,Maseru West,services,20724.94,0
+281,TIN6377597,Boitumelo Mphutlane tavern,+266 54999248,Motimposo,tavern,37781.18,0
+287,TIN1524283,Palesa Ramaili geneal dealer,+266 69137298,Khubetsoana,retail,0,9
+294,TIN9158567,Thabng Mosala general dealer,+266 57911357,Motimposo,retail,15403.1,0
+303,TIN3950434,T. Khoase tuck shop,+266 63984886,Ha Matala,retail,22172.32,0
+306,TIN3538003,Nthati Rantsane tavern,+266 52840934,Maseru West,tavern,17966.79,0
+313,TIN2523301,Tebello Ntsane,+266 58849855,Motimposo,snack bar,44664.2,0
+322,TIN7369798,M. Mohapi snakc bar,+266 51361795,Qoaling,snack bar,33346.29,0
+333,TIN7233986,Mampho Mokuoa hair salon,+266 53516199,Motimposo,services,0,8
+351,TIN0754630,M. Seboka general dealer,+266 69871988,Thetsane,retail,27817.86,0
+353,TIN6514496,Teboho Lekhooa tavern,,Lithoteng,tavern,16244.42,0
+365,TIN6788524,Mpeta's hardware,+266 62041263,Maseru West,hardware,52392.18,0
+368,TIN4265539,L. Setsabi tuck shop,+266 55240137,Khubetsoana,retail,0,12
+377,TIN8775246,Mookho Mahllebe tuck shop,+266 64975332,Qoaling,retail,21590.12,0
+396,TIN5448673,Maieane's guesthouse,+266 55538488,Motimposo,services,7193.32,0
+399,TIN7886356,I. Thakhisi mini market,+266 56709072,Qoaling,retail,59886.5,0
+429,TIN2498633,T. Mathibeli hardware,+266 54460261,Qoaling,hardware,86636.23,0
+434,TIN1478410,Mathibeli's tavern,+266 51000520,Thetsane,tavern,14866.88,0
+462,TIN6506524,Pheello Monaheng hardware,+266 59923981,Maseru West,hardware,27675.51,0
+465,TIN9965969,Tlali's hair salon,+266 52718615,Maseru West,services,0,12
+467,TIN5205330,Lineo Makara snack bar,,Qoaling,snack bar,127327.76,0
+472,TIN1739146,Thulo Kao general dealer,+266 54812417,Maseru West,retail,56284.18,0
+483,TIN1583635,Maieane's snack bar,+266 60601889,Thetsane,snack bar,0,12
+486,TIN7383690,Nteboheleng Molapo tavern,+266 55178013,Ha Abia,tavern,33963.9,0
+493,TIN9835847,Refiloe Ramaili,+266 69563782,Lithoteng,retail,74026.56,0
+498,TIN5437828,Rametse's snack bar,,Thetsane,snack bar,124795.84,0
+511,TIN1656552,Palesa Ntlhoki,+266 60215205,Lithoteng,retail,32872.43,0
+514,TIN3265132,L. Sekhonyana phone repairs,+266 59418341,Ha Matala,services,4520.3,0
+520,TIN6811265,Makhoalibe's tuck shop,+266 57877604,Motimposo,retail,17803.55,0
+523,TIN2580560,Mosuoes' hair salon,+266 66854242,Lithoteng,services,38012.16,0
+530,TIN2115892,Lehlohonolo Lephoto general dealer,+266 56055049,Khubetsoana,retail,54987.89,0
+535,TIN8704477,Tsepiso Molapo mini market,+266 55643338,Motimposo,retail,11769.09,0
+552,TIN9072134,Fumane Masilo mini market,+266 57882039,Ha Abia,retail,17430.11,0
+554,TIN3149688,N. Thamae,+266 69539711,Maseru West,butchery,8319.5,0
+559,TIN5264716,Tsholo Khoase general dealer,+266 60028220,Maseru West,retail,0,8
+567,TIN4440329,Tau's tuck shop,+266 53167779,Khubetsoana,retail,7202.29,0
+570,TIN2553978,Letsatsi Lephoto tuck shop,+266 54479672,Ha Matala,retail,0,12
+582,TIN1073846,Sello Ramaili hardware,+266 67983717,Motimposo,hardware,42678.16,0
+585,TIN2202144,Lekhooa's tavern,+266 56064501,Ha Matala,tavern,17304.28,0
+590,TIN7385027,Mokete Lebitsa general dealer,+266 60965845,Ha Abia,retail,0,12
+604,TIN4251149,Sello Liphapang tailoring,+266 54995314,Qoaling,services,20680.34,0
+607,TIN8081335,Mapaseka Lenka tuck shop,,Khubetsoana,retail,0,12
+613,TIN2152836,Kopano Lebusa phone repairs,,Motimposo,services,18115.79,0
+624,TIN5733495,Lineo Letete snack bar,+266 53179143,Ha Abia,snack bar,9294.11,0
+647,TIN2667001,Karabo Phafoli mini market,+266 52848525,Lithoteng,retail,32035.87,0
+652,TIN1252625,Motaung's tailoring,+266 67978176,Lithoteng,services,11385.85,0
+681,TIN0969890,Lebakeng's tuck shop,+266 67132744,Lithoteng,retail,8437.34,0
+685,TIN8027945,L. Mphuthi phone repairs,+266 63359183,Qoaling,services,245804.92,0
+705,TIN5735035,Pontso Mphaki car wash,+266 53488830,Lithoteng,services,2884.27,0
+716,TIN7177296,Matseliso Lebakeng general dealer,+266 55483447,Ha Matala,retail,35496.34,0
+719,TIN1414168,Nthati Sekhonyana tuck shop,+266 69392981,Ha Matala,retail,49751.43,0
+734,TIN4569597,Libuseng Mphaki mini market,+266 52644527,Thetsane,retail,25907.48,0
+738,TIN7269784,Nkopane Thoahlane tuck shop,+266 63104172,Thetsane,retail,31486.69,0
+747,TIN1500499,Nteboheleng Matete hardware,+266 56058188,Ha Matala,hardware,17775.66,0
+753,TIN8207408,P. Mphaki general dealer,+266 60601696,Motimposo,retail,58304.91,0
+758,TIN6916578,Moeketsi Ntaote car wash,,Ha Abia,services,26700.97,0
+762,TIN7518608,Lineo Makhetha snack bar,+266 60342365,Maseru West,snack bar,19181.64,0
+771,TIN0113444,L. Tsepe,+266 67733374,Ha Matala,services,22481.99,0
+775,TIN0236415,Kopano Motloheloa,+266 51782054,Ha Abia,retail,11117.08,0
+782,TIN3032851,L Chabeli hardware,+266 57367512,Khubetsoana,hardware,43460.98,0
+792,TIN8392318,Matseliso Khoase guesthouse,+266 56766697,Maseru West,services,61107.74,0
+799,TIN9999553,Matete's general dealer,+266 54718480,Thetsane,retail,14431.41,0
+839,TIN4358876,Molapo's general dealer,+266 52320930,Qoaling,retail,0,9
+857,TIN4605604,M. Malefane general dealer,+266 50325883,Motimposo,retail,4682.23,0
+860,TIN6173008,Tlali Tsepe tavern,,Motimposo,tavern,0,12
+879,TIN5674490,Nkopane Mathaba tailoring,+266 59491190,Ha Abia,services,105769.64,0
+881,TIN7124328,Mpeta' hardware,+266 68499204,Ha Abia,hardware,11614.24,0
+885,TIN4025602,Letsatsi Manyeli tailoring,+266 55350191,Qoaling,services,0,12
+890,TIN4022738,Masechaba Mosuoe general dealer,+266 66415249,Thetsane,retail,20739.13,0
+908,TIN1465498,Palesa Mokoena general dealer,+266 64408186,Lithoteng,retail,29345.28,0
+917,TIN8354209,Katleho Manyeli guesthouse,+266 67257550,Thetsane,services,22914.45,0
+941,TIN2719876,Jobo's tuck shop,+266 63864823,Motimposo,retail,11499.1,0
+945,TIN3824238,B. Selebalo hardware,,Ha Matala,hardware,75504.53,0
+954,TIN1771027,L. Thulo tuck shop,+266 68552285,Ha Abia,retail,32893.19,0
+960,TIN9485549,Pontso Kao guesthouse,+266 52693109,Khubetsoana,services,7314.64,0
+968,TIN4719618,Ramaili's mini market,+266 62055489,Ha Abia,retail,0,12
+970,TIN7777355,Thoahlane's mini market,+266 52386162,Ha Abia,retail,21045.06,0
+981,TIN4314344,Tankiso Khanyane general dealer,+266 55964852,Maseru West,retail,18326.29,0
+990,TIN2884381,Teboho Mapetla general dealer,+266 64486071,Maseru West,retail,18006.41,0
+1002,TIN6258323,Puseletso Mahlelebe general dealer,+266 68979486,Ha Matala,retail,16126.47,0
+1005,TIN0671212,Teboho Seboka hair salon,+266 61868416,Motimposo,services,19276.97,0
+1013,TIN8500407,M. Nthloki snack bar,+266 63812963,Maseru West,snack bar,24754.69,0
+1015,TIN5768742,Liphapang's tuck shop,+266 54014861,Motimposo,retail,0,0
+1021,TIN2834605,Nkhasi's tuck shop,+266 54190327,Motimposo,retail,49138.66,0
+1027,TIN3283537,Mathabo Maqutu butchery,+266 62705755,Motimposo,butchery,33399.54,0
+1062,TIN6459444,Khauhelo Ramaili mini market,+266 58232837,Khubetsoana,retail,0,12
+1066,TIN6284051,Teobho Mochochoko,,Khubetsoana,retail,19402.63,0
+1072,TIN7081802,Moleboheng Khoabane,+266 58416441,Khubetsoana,retail,9744.03,0
+1078,TIN2047696,Bokang Molapo hair salon,+266 65364604,Maseru West,services,37095.98,0
+1084,TIN5139098,Fumane Lebakeng mini market,+266 56817353,Ha Abia,retail,8646.91,0
+1090,TIN3050427,Moeketsi Mathibeli general dealer,+266 65911506,Qoaling,retail,24692.05,0
+1103,TIN2225389,Ramabele's mini market,+266 60062013,Thetsane,retail,28461.71,0
+1108,TIN4181931,Puseletso Mosuoe snack bar,,Qoaling,snack bar,10035.85,0
+1114,TIN5760731,Shale's tuck shop,+266 53687648,Motimposo,retail,32426.16,0
+1118,TIN9585238,Limpho Makotoko hair salon,+266 53420779,Motimposo,services,50266.47,0
+1120,TIN6269517,Mojalefa Mohale tuck shop,+266 62854766,Motimposo,retail,31263.98,0
+1129,TIN2821916,Nopane Mohale snack bar,+266 63544644,Qoaling,snack bar,55060.37,0
+1134,TIN1308988,Hlompho Hlalele car wash,+266 62071013,Ha Matala,services,12680.93,0
+1147,TIN1006141,B. Mpeta tuck shop,+266 51847684,Motimposo,retail,49626.76,0
+1153,TIN6657643,N. Lerotholi tuck shop,+266 59063771,Qoaling,retail,73331.74,0
+1165,TIN1109090,P. Mphutlane snack bar,+266 54828646,Ha Matala,snack bar,0,0
+1169,TIN0477094,Sello Sebotsa mini market,+266 59873383,Ha Abia,retail,0,12
+1175,TIN2780554,Makhetha's tailoring,+266 69739271,Maseru West,services,49197.77,0
+1178,TIN8125976,Lithebe's phone repairs,,Qoaling,services,21025.47,0
+1183,TIN9403989,Maqutu's geeral dealer,+266 57484538,Thetsane,retail,40095.68,0
+1187,TIN9043330,MoliehiJ obo general dealer,+266 54170313,Qoaling,retail,16134.56,0
+1209,TIN7389251,Mampho Letsie hardware,+266 54094407,Thetsane,hardware,57238.04,0
+1225,TIN8849625,Shale's tavern,,Ha Abia,tavern,0,12
+1228,TIN7026258,M. Lebakeng tuck shop,,Ha Matala,retail,25434.9,0
+1261,TIN5548641,Teboho Selebalo hair salon,+266 60740787,Maseru West,services,107269.55,0
+1276,TIN9228989,Lehlohonlo Mapetla general dealer,+266 51624366,Maseru West,retail,56394.4,0
+1280,TIN2862121,Pontso Mpiti hardware,+266 58672820,Maseru West,hardware,17256.5,0
+1283,TIN6748422,SelloSelebalo mini market,+266 67603997,Qoaling,retail,10200.46,0
+1286,TIN1955846,M. Tlali tcuk shop,+266 67378530,Maseru West,retail,13101.63,0
+1295,TIN7233433,Khotso Mafatle car wash,+266 57043556,Ha Matala,services,7812.94,0
+1325,TIN4557194,Katleho Manyeli tuck shop,,Thetsane,retail,24244.3,0
+1327,TIN1623223,Teboho Maieane mini market,+266 66120559,Motimposo,retail,0,12
